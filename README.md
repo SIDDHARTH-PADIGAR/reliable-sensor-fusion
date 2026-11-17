@@ -39,7 +39,8 @@ I compared both models under five conditions:
 
 ## Visual Results
 
-![Bolivia Holdout Comparison](bolivia_model_comparison.png)
+<img width="2189" height="488" alt="image" src="https://github.com/user-attachments/assets/293ca50d-dd30-4807-9138-7136c7ebd719" />
+
 
 ### So, what does this tell us?
 
