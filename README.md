@@ -37,6 +37,10 @@ I compared both models under five conditions:
 | Optical degradation IoU | **0.4323** | 0.2105 |
 | SAR degradation IoU | 0.7310 | **0.7739** |
 
+## Visual Results
+
+![Bolivia Holdout Comparison](bolivia_model_comparison.png)
+
 ### So, what does this tell us?
 
 The learned weighting approach improved flood detection on standard test data and under simulated SAR noise.
